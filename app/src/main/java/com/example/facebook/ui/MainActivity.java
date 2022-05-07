@@ -1,8 +1,10 @@
-package com.example.facebook;
+package com.example.facebook.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.facebook.R;
 
 public class MainActivity extends AppCompatActivity {
 
